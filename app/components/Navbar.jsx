@@ -79,7 +79,7 @@ const Navbar = () => {
         {/* Mobile Menu */}
         <div className={`fixed top-0 right-0 w-64 shadow-sm transform ${isOpen ? "translate-x-0" : "translate-x-full"} 
           transition-transform duration-300 ease-in-out lg:hidden `}>
-          <ul className="flex flex-col gap-6 p-12 pt-20 backdrop-blur-sm h-screen">
+          <ul className="flex flex-col gap-6 p-12 pt-20 backdrop-blur-sm h-screen" onClick={handleToggle}>
             <li className="hover:text-blue-500 transition"><a href="#top" onClick={handleToggle}>Home</a></li>
             <li className="hover:text-blue-500 transition"><a href="#about" onClick={handleToggle}>About</a></li>
             <li className="hover:text-blue-500 transition"><a href="#services" onClick={handleToggle}>Services</a></li>
