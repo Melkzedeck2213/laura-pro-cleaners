@@ -55,7 +55,7 @@ const Navbar = () => {
         <div className="hidden lg:flex items-center ">
           
         <a href="/login" className="flex items-center   border text-white
-          bg-black rounded-full px-5 py-3  transition duration-500">
+          bg-black rounded-full px-5 py-3  transition duration-500  hover:bg-blue-500">
             Login
             <ArrowUpRightIcon className="w-5 h-5 ml-2" />
           </a>
@@ -85,7 +85,7 @@ const Navbar = () => {
             <li className="hover:text-blue-500 transition"><a href="#services" onClick={handleToggle}>Services</a></li>
             <li className="hover:text-blue-500 transition"><a href="#contact" onClick={handleToggle}>Contact Us</a></li>
             <li>
-              <a href="/login" className="block text-center border text-white bg-black rounded-full px-5 py-3 transition duration-500 mt-4">
+              <a href="/login" className="block text-center border text-white bg-black rounded-full px-5 py-3 transition duration-500 mt-4  hover:bg-blue-500">
                 Login
               </a>
             </li>
