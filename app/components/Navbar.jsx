@@ -83,7 +83,7 @@ const Navbar = () => {
             <li className="hover:text-blue-500 transition"><a href="#top" onClick={handleToggle}>Home</a></li>
             <li className="hover:text-blue-500 transition"><a href="#about" onClick={handleToggle}>About</a></li>
             <li className="hover:text-blue-500 transition"><a href="#services" onClick={handleToggle}>Services</a></li>
-            <li className="hover:text-blue-500 transition"><a href="/signup" onClick={handleToggle}>Contact Us</a></li>
+            <li className="hover:text-blue-500 transition"><a href="#contact" onClick={handleToggle}>Contact Us</a></li>
           </ul>
         </div>
       </nav>
