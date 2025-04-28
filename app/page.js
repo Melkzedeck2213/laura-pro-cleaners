@@ -4,6 +4,8 @@ import About from "./components/About";
 import Contacts from "./components/Contacts";
 import Navbar from "./components/Navbar";
 import Services from "./components/Services";
+import { AuthProvider } from '../context/AuthContext'
+
 
 
 
@@ -12,7 +14,7 @@ import Services from "./components/Services";
 export default function Home() {
   return (
 
-    <>
+    <AuthProvider>
     
 <Navbar/>
 <About/>
@@ -20,6 +22,6 @@ export default function Home() {
 <Contacts/>
 
 
-    </>
+    </AuthProvider>
   );
 }
