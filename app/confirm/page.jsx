@@ -11,12 +11,17 @@ const Page = () => {
   }
 
   return (
-    <div>
-      <h1>Email account confirmed successfully</h1>
-      <button className='bg-purple-950 text-white cursor-pointer' onClick={homePage}>
-        Home page
-      </button>
-    </div>
+    <div className="p-6">
+    <h1 className="text-2xl font-bold mb-4">Thank you for joining us. we are proud and honoured to serve you</h1>
+    
+
+    <button
+      onClick={()=>homePage()}
+      className="px-4 py-2 bg-purple-600 text-white rounded hover:bg-blue-700"
+    >
+      Home Page
+    </button>
+  </div>
   )
 }
 
