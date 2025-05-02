@@ -23,7 +23,7 @@ export default function SignUp() {
     if (signUpError) {
       setError(signUpError.message)
     } else {
-      router.push('/')
+      router.push('/dashboard')
     }
     setLoading(false)
   }
