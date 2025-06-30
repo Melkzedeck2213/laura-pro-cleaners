@@ -47,8 +47,4 @@ npm install
 npm run dev
 
 
-📬 Get in Touch
-Got feedback, collaboration ideas, or want to hire me?
 
-📧email: meshackzkl@gmail.com
-🌐 Portfolio:https://meshack-portfolio-one.vercel.app/
