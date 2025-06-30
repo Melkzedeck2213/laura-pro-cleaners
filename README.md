@@ -16,18 +16,18 @@ Frontend is mostly complete and the backend functionality (booking, contact, etc
 
 ## ✨ Features (Planned)
 
-- Clean, responsive landing page
-- Services showcase with icons and descriptions
-- Customer testimonials (coming soon)
-- Contact form for inquiries and bookings
+- Clean, responsive landing page  
+- Services showcase with icons and descriptions  
+- Customer testimonials (coming soon)  
+- Contact form for inquiries and bookings  
 - Backend integration for real-time availability (in progress)
 
 ---
 
 ## 💻 Tech Stack
 
-- **Next.js** – Modern React framework
-- **TailwindCSS + DaisyUI** – Utility-first styling with elegant components
+- **Next.js** – Modern React framework  
+- **TailwindCSS + DaisyUI** – Utility-first styling with elegant components  
 - **Vercel** – Seamless deployment and hosting
 
 ---
@@ -46,7 +46,9 @@ cd laura-pro-cleaners
 npm install
 npm run dev
 
-##📬 Get in touch
+
+📬 Get in Touch
 Got feedback, collaboration ideas, or want to hire me?
 
-📧 meshackzkl@gmail.com
+📧email: meshackzkl@gmail.com
+🌐 Portfolio:https://meshack-portfolio-one.vercel.app/
