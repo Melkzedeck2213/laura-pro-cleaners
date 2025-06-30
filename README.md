@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Laura Pro Cleaners 🧼
 
-## Getting Started
+A modern frontend for a professional cleaning service website — focused on user-friendly design, responsiveness, and trust-building content.
 
-First, run the development server:
+🔗 **Live Site:** [laura-pro-cleaners.vercel.app](https://laura-pro-cleaners.vercel.app)  
+📧 **Contact:** meshackzkl@gmail.com
+
+---
+
+## 🚧 Status
+
+> **Currently in development.**  
+Frontend is mostly complete and the backend functionality (booking, contact, etc.) is being implemented.
+
+---
+
+## ✨ Features (Planned)
+
+- Clean, responsive landing page
+- Services showcase with icons and descriptions
+- Customer testimonials (coming soon)
+- Contact form for inquiries and bookings
+- Backend integration for real-time availability (in progress)
+
+---
+
+## 💻 Tech Stack
+
+- **Next.js** – Modern React framework
+- **TailwindCSS + DaisyUI** – Utility-first styling with elegant components
+- **Vercel** – Seamless deployment and hosting
+
+---
+
+## 📸 Screenshots
+
+> Coming soon after backend & polish!
+
+---
+
+## 🛠️ Local Setup
 
 ```bash
+git clone https://github.com/your-repo/laura-pro-cleaners.git
+cd laura-pro-cleaners
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+##📬 Get in touch
+Got feedback, collaboration ideas, or want to hire me?
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📧 meshackzkl@gmail.com
